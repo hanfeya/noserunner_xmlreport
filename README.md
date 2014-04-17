@@ -1,7 +1,7 @@
 noserunner 0.0.2
 ==========
 
-runner based on python nose testing framework
+test runner based on python nose testing framework
 
 
 
