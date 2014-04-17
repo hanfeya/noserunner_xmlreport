@@ -1,0 +1,8 @@
+[tests]
+#common define
+scripts.testcases.phone.Phone.testCall = 2
+scripts.testcases.browser.Browser.testOpenBrowser = 3
+
+
+
+
