@@ -1,7 +1,6 @@
 xmlreporterplugin 0.0.1
 ==========
 
-xmlreportplugin Convert test result into xml format
 This plugin dependent on noserunner and convert the test result into xml format.
 
 The command-line same as noserunner.this plugin is enabled by default.
